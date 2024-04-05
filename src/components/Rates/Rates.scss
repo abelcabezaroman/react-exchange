@@ -1,0 +1,6 @@
+.c-rates{
+    display: grid;
+    gap: 15px;
+    grid-template-columns: repeat(4, 1fr);
+    flex-wrap: wrap;
+}
